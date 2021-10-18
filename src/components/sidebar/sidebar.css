@@ -3,7 +3,7 @@
         flex: 1;
         height: calc(100vh - 50px);
         background-color: rgb(251,251,255);
-        position: sticky;
+        position: static;
         top: 50px;
 
 }
@@ -15,7 +15,7 @@
     margin-bottom: 10px;
 }
 .sidebarTitle{
-    font-size:18px;
+    font-size:15px;
     color:rgb(168, 164, 164);
 
 }
